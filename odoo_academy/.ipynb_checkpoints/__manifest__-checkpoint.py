@@ -25,7 +25,8 @@
        
     ],
     'demo': [
-    #Add license to remove License Warning
+     ],
+     #Add license to remove License Warning
     'license': 'LGPL-3',
-    ],
+  
 }
